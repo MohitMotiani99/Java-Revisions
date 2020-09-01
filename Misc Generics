@@ -1,0 +1,26 @@
+java does small data type to big type casting by itself(like double f=myint)
+
+big to smalll casting to be done explicitely(like int x=(int)myDouble)
+
+not in java= ~ 
+
+String methods
+    
+        str.toUppercase
+        str.indexOf//=str.find
+        +
+        str.concat(str2)
+        \ ==>escape char
+        string + int is = string
+
+Math methods
+        
+        Math.max(a,b)
+             min
+             sqrt
+             abs
+             random//bw 0 & 1
+             
+boolean//not bool
+
+forEach loop
